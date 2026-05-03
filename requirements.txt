@@ -1,0 +1,7 @@
+### pip install  -r requirements.txt
+### This command will install all the packages listed in the requirements.txt file. Make sure you have pip installed and run this command in your terminal or command prompt while being in the same directory as the requirements.txt file.    
+### Note: The requirements.txt file should contain the names of the packages you want to install, one per line.
+### We can directly install the packages using pip install package_name, but using a requirements.txt file is a good practice for managing dependencies in a project.   
+
+ipykernel
+numpy
